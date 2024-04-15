@@ -12,3 +12,6 @@ The original archived repostiories are also available.
 
 A post-processing framework build in Python is included in Py4Incompact3d, this
 uses the same numerical methods as Incompact3d for performing consistent analyses.
+
+There is a next generation solver for GPUs under development (x3d2) and also a simplified
+mini-app for experimental developments based on Xcompact3d called x3div.
