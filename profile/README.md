@@ -11,4 +11,4 @@ including the original Incompact3d, Quasincompact3d (LMN) and Winc3d (wind farm)
 The original archived repostiories are also available.
 
 A post-processing framework build in Python is included in Py4Incompact3d, this
-uses the same numberical methods as Incompact3d for performing consistent analyses.
+uses the same numerical methods as Incompact3d for performing consistent analyses.
